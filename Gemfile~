@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '2.3.0'
 
-gem "json", '~>1.8.1'
+gem "json"='1.8.1'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
